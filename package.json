@@ -1,0 +1,14 @@
+{
+  "name": "make-change",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potters/make-change.git"
+  },
+  "description": "Javascript solution to classic interview problem",
+  "keywords": ["math", "interview problem"],
+  "license": "BSD",
+  "engines": ">= 0.8",
+  "test": "node make-change.js",
+  "main": "make-change.js"
+}
