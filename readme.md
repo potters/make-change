@@ -5,4 +5,6 @@
 |_| |_| |_|\__,_|_|\_\___|\___|_| |_|\__,_|_| |_|\__, |\___|
                                                  |___/
 
-Javascript solution to classic interview problem
+Javascript solution to classic interview problem.
+Hard to see in the repo, but this ^ is our sweet ascii art.
+Open this file to admire!
